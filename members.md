@@ -12,3 +12,5 @@
 | 7 | Njoku Chukwuemeka | 2020/244400 | Programming and Debugging|
 | 8 | Ihejirika Tochukwu Daniel  | 2020/241834 | Code Review and Debugging|
 | 9 | Ugwu Victor Chidiebere   | 2020/244358 | Code Review and Report |
+|10 | Ibebuike Nzube Kennedy | 2020/243025  | Programming and Debugging |
+
