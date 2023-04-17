@@ -18,5 +18,5 @@
 | 13| Ugwuishiwu Nehemiah Chiemerie | 2020/244323 | Code |Review|
 | 14| Eze Precious Tochi | 2020/244319 |
 | 15 | Mbaeze Victor Onyedika | 2020/244320 | Code Review 
-| 16 | Ibebeuike NZube Kennedy | 2020/243025 | Programming and debugging |
+| 17 | Ibebeuike NZube Kennedy | 2020/243025 | Programming and debugging |
 
